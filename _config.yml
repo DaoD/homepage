@@ -3,16 +3,16 @@
 #
 
 # Name of your site (displayed in the header)
-name: Reverie
+name: Homepage
 
 # Name of the author
-author: Amit Merchant
+author: Yutao Zhu
 
 # Short bio or description (displayed in the header)
-description: An elegant Jekyll theme
+description: PhD candidate, Computer Science, DIRO, University of Montreal
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+# avatar: /images/reverie.png
 
 #
 # Flags below are optional
