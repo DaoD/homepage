@@ -19,7 +19,7 @@ Xiaohe Li, Jiaqing Liu, Weihao Zheng, Xiangbo Wang, _Yutao Zhu_, and Zhicheng Do
 NTCIR-14  
 Xiaohe Li, Jiaqing Liu, Weihao Zheng, Xiangbo Wang, _Yutao Zhu_, and Zhicheng Dou  
 - **An Attribute-aware Neural Attentive Model for Next Basket Recommendation** [\[PDF\]](http://rali.iro.umontreal.ca/rali/sites/default/files/publis/p1201-bai.pdf)  
-SIGIR 2018 (Short Paper)
+SIGIR 2018 (Short Paper)  
 Ting Bai, Jian-Yun Nie, Xin Zhao, _Yutao Zhu_, Pan Du and Ji-Rong Wen  
 - **RUCIR at the NTCIR-13 STC-2 Task** [\[PDF\]](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings13/pdf/ntcir/08-NTCIR13-STC-ZhuY.pdf)  
 NTCIR-13  
