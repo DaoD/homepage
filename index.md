@@ -3,6 +3,9 @@ My research interests are in natural language processing (NLP) and machine learn
 I obtained my master (2019) and bachelor (2016) degree from Renmin University of China, where I worked with Prof. [Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou) and [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ) on various NLP problems.
 
 ### Publications
+- **Improving Multi-Turn Response Selection Models with Complementary Last-Utterance Selection by Instance Weighting**  
+PAKDD 2020  
+Kun Zhou, Wayne Xin Zhao, _Yutao Zhu_, Ji-Rong Wen, Jingsong Yu  
 - **ReBoost: A Retrieval-Boosted Sequence-to-SequenceModel for Neural Response Generation** [\[PDF\]](https://link.springer.com/content/pdf/10.1007%2Fs10791-019-09364-x.pdf)  
 Information Retrieval Journal 2019  
 _Yutao Zhu_, Zhicheng Dou, Jian-Yun Nie, Ji-Rong Wen  
