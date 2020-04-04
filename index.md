@@ -3,6 +3,9 @@ My research interests are in natural language processing (NLP) and machine learn
 I obtained my master (2019) and bachelor (2016) degree from Renmin University of China, where I worked with Prof. [Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou) and [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ) on various NLP problems.
 
 ### Publications
+- **ScriptWriter: Narrative-Guided Script Generation**  
+ACL 2020  
+_Yutao Zhu_, Ruihua Song, Zhicheng Dou, Jian-Yun NIE and Jin Zhou  
 - **Improving Multi-Turn Response Selection Models with Complementary Last-Utterance Selection by Instance Weighting** [\[PDF\]](https://arxiv.org/pdf/2002.07397.pdf)  
 PAKDD 2020  
 Kun Zhou, Wayne Xin Zhao, _Yutao Zhu_, Ji-Rong Wen, Jingsong Yu  
