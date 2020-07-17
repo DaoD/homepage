@@ -5,7 +5,7 @@ I obtained my master (2019) and bachelor (2016) degree from Renmin University of
 ### Publications
 - **S^3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization**  
 CIKM 2020  
-Kun Zhou, Hui Wang, Xin Zhao, _Yutao Zhu_, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Ji-Rong Wen
+Kun Zhou, Hui Wang, Wayne Xin Zhao, _Yutao Zhu_, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Ji-Rong Wen
 
 - **ScriptWriter: Narrative-Guided Script Generation** [\[PDF\]](https://www.aclweb.org/anthology/2020.acl-main.765.pdf)  
 ACL 2020  
