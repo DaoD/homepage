@@ -3,7 +3,7 @@ My research interests are in natural language processing (NLP) and machine learn
 I obtained my master (2019) and bachelor (2016) degree from Renmin University of China, where I worked with Prof. [Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou) and [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ) on various NLP problems.
 
 ### Publications
-- **S^3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization**  
+- **S^3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization** [\[PDF\]](https://arxiv.org/pdf/2008.07873.pdf)  
 CIKM 2020  
 Kun Zhou, Hui Wang, Wayne Xin Zhao, _Yutao Zhu_, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Ji-Rong Wen
 
