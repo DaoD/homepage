@@ -1,4 +1,4 @@
-I'm a 1st year Ph.D. student at [DIRO](https://diro.umontreal.ca/english/home/) in [University of Montreal](https://www.umontreal.ca/en/) under the supervision of Prof. [Jian-Yun Nie](http://rali.iro.umontreal.ca/nie/jian-yun-nie-en/).  
+I'm a 2nd year Ph.D. student at [DIRO](https://diro.umontreal.ca/english/home/) in [University of Montreal](https://www.umontreal.ca/en/) under the supervision of Prof. [Jian-Yun Nie](http://rali.iro.umontreal.ca/nie/jian-yun-nie-en/).  
 My research interests are in natural language processing (NLP) and machine learning (ML), with a focus on machine learning approaches to language generation and text matching.  
 I obtained my master (2019) and bachelor (2016) degree from Renmin University of China, where I worked with Prof. [Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou) and [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ) on various NLP problems.
 
