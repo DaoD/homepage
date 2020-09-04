@@ -41,4 +41,4 @@ Advisor: [Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou), [Ji-Rong Wen](https:
 Mentor: [Anjaneyulu Pasala](https://in.linkedin.com/in/anjaneyulupasala) 
 
 ### Academic Services
-PC Member: AAAI 2021
+- PC Member: AAAI 2021
