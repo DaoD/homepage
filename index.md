@@ -39,3 +39,6 @@ Mentor: [Ruihua Song](https://www.microsoft.com/en-us/research/people/rsong/)
 Advisor: [Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou), [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ)  
 - 2016.6 - 2016.9, Software Engineer, Infosys Technology Limited.  
 Mentor: [Anjaneyulu Pasala](https://in.linkedin.com/in/anjaneyulupasala) 
+
+### Academic Services
+PC Member: AAAI 2021
