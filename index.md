@@ -9,7 +9,7 @@ _Yutao Zhu_, Kun Zhou, Jian-Yun Nie, Shengchao Liu, Zhicheng Dou
 - **S^3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization** [\[PDF\]](https://arxiv.org/pdf/2008.07873.pdf)  
 CIKM 2020  
 Kun Zhou, Hui Wang, Wayne Xin Zhao, _Yutao Zhu_, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang and Ji-Rong Wen
-- **ScriptWriter: Narrative-Guided Script Generation** [\[PDF\]](https://www.aclweb.org/anthology/2020.acl-main.765.pdf)  
+- **ScriptWriter: Narrative-Guided Script Generation** [\[PDF\]](https://www.aclweb.org/anthology/2020.acl-main.765.pdf)[\[Video\]](http://slideslive.com/38928837)  
 ACL 2020  
 _Yutao Zhu_, Ruihua Song, Zhicheng Dou, Jian-Yun Nie and Jin Zhou  
 - **Improving Multi-Turn Response Selection Models with Complementary Last-Utterance Selection by Instance Weighting** [\[PDF\]](https://arxiv.org/pdf/2002.07397.pdf)  
