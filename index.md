@@ -3,7 +3,7 @@ My research interests are in natural language processing (NLP) and machine learn
 I obtained my master (2019) and bachelor (2016) degree from Renmin University of China, where I worked with Prof. [Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou) and [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ) on various NLP problems.
 
 ### Publications
-- **Neural Sentence Ordering Based on Constraint Graphs**  
+- **Neural Sentence Ordering Based on Constraint Graphs** \[PDF\]  
 AAAI 2021  
 _Yutao Zhu_, Kun Zhou, Jian-Yun Nie, Shengchao Liu, Zhicheng Dou  
 - **S^3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization** [\[PDF\]](https://arxiv.org/pdf/2008.07873.pdf)  
@@ -43,4 +43,4 @@ Advisor: [Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou), [Ji-Rong Wen](https:
 Mentor: [Anjaneyulu Pasala](https://in.linkedin.com/in/anjaneyulupasala) 
 
 ### Academic Services
-- PC Member: AAAI 2021
+- PC Member (Reviewer): AAAI 2021
