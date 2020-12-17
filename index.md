@@ -6,19 +6,19 @@ I obtained my master (2019) and bachelor (2016) degree from Renmin University of
 - **Content Selection Network for Document-grounded Retrieval-based Chatbots** \[PDF\]  
 ECIR 2021  
 _Yutao Zhu_, Jian-Yun Nie, Kun Zhou, Pan Du, and Zhicheng Dou  
-- **Neural Sentence Ordering Based on Constraint Graphs** \[PDF\]  
+- **Neural Sentence Ordering Based on Constraint Graphs** \[PDF\][\[Code\]](https://github.com/DaoD/ConstraintGraph4NSO)  
 AAAI 2021  
 _Yutao Zhu_, Kun Zhou, Jian-Yun Nie, Shengchao Liu, and Zhicheng Dou  
-- **S^3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization** [\[PDF\]](https://arxiv.org/pdf/2008.07873.pdf)  
+- **S^3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization** [\[PDF\]](https://arxiv.org/pdf/2008.07873.pdf)[\[Code\]](https://github.com/RUCAIBox/CIKM2020-S3Rec)    
 CIKM 2020  
 Kun Zhou, Hui Wang, Wayne Xin Zhao, _Yutao Zhu_, Sirui Wang, Fuzheng Zhang, Zhongyuan Wang, and Ji-Rong Wen
-- **ScriptWriter: Narrative-Guided Script Generation** [\[PDF\]](https://www.aclweb.org/anthology/2020.acl-main.765.pdf)[\[Video\]](http://slideslive.com/38928837)  
+- **ScriptWriter: Narrative-Guided Script Generation** [\[PDF\]](https://www.aclweb.org/anthology/2020.acl-main.765.pdf)[\[Video\]](http://slideslive.com/38928837)[\[Code\]](https://github.com/DaoD/ScriptWriter)  
 ACL 2020  
 _Yutao Zhu_, Ruihua Song, Zhicheng Dou, Jian-Yun Nie, and Jin Zhou  
 - **Improving Multi-Turn Response Selection Models with Complementary Last-Utterance Selection by Instance Weighting** [\[PDF\]](https://arxiv.org/pdf/2002.07397.pdf)  
 PAKDD 2020  
 Kun Zhou, Wayne Xin Zhao, _Yutao Zhu_, Ji-Rong Wen, and Jingsong Yu  
-- **ReBoost: A Retrieval-Boosted Sequence-to-SequenceModel for Neural Response Generation** [\[PDF\]](https://link.springer.com/content/pdf/10.1007%2Fs10791-019-09364-x.pdf)  
+- **ReBoost: A Retrieval-Boosted Sequence-to-SequenceModel for Neural Response Generation** [\[PDF\]](https://link.springer.com/content/pdf/10.1007%2Fs10791-019-09364-x.pdf)[\[Code\]](https://github.com/DaoD/ReBoost)  
 Information Retrieval Journal 2019  
 _Yutao Zhu_, Zhicheng Dou, Jian-Yun Nie, and Ji-Rong Wen  
 - **Deep cross-platform product matching in e-commerce** [\[PDF\]](https://link.springer.com/content/pdf/10.1007%2Fs10791-019-09360-1.pdf)  
