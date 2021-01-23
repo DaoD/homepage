@@ -3,7 +3,7 @@ My research interests are in natural language processing (NLP) and machine learn
 I obtained my master (2019) and bachelor (2016) degree from Renmin University of China, where I worked with Prof. [Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou) and [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ) on various NLP problems.
 
 ### Publications
-- **Content Selection Network for Document-grounded Retrieval-based Chatbots** \[PDF\][\[Code\]](https://github.com/DaoD/CSN/)  
+- **Content Selection Network for Document-grounded Retrieval-based Chatbots** [\[PDF\]](https://arxiv.org/pdf/2101.08426.pdf)[\[Code\]](https://github.com/DaoD/CSN/)  
 ECIR 2021  
 _Yutao Zhu_, Jian-Yun Nie, Kun Zhou, Pan Du, and Zhicheng Dou  
 - **Neural Sentence Ordering Based on Constraint Graphs** \[PDF\][\[Code\]](https://github.com/DaoD/ConstraintGraph4NSO)  
