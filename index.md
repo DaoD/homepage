@@ -6,7 +6,7 @@ I obtained my master (2019) and bachelor (2016) degree from Renmin University of
 - **Content Selection Network for Document-grounded Retrieval-based Chatbots** [\[PDF\]](https://arxiv.org/pdf/2101.08426.pdf)[\[Code\]](https://github.com/DaoD/CSN/)  
 ECIR 2021  
 _Yutao Zhu_, Jian-Yun Nie, Kun Zhou, Pan Du, and Zhicheng Dou  
-- **Neural Sentence Ordering Based on Constraint Graphs** \[PDF\][\[Code\]](https://github.com/DaoD/ConstraintGraph4NSO)  
+- **Neural Sentence Ordering Based on Constraint Graphs** [\[PDF\]](https://arxiv.org/pdf/2101.11178.pdf)[\[Code\]](https://github.com/DaoD/ConstraintGraph4NSO)  
 AAAI 2021  
 _Yutao Zhu_, Kun Zhou, Jian-Yun Nie, Shengchao Liu, and Zhicheng Dou  
 - **S^3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization** [\[PDF\]](https://arxiv.org/pdf/2008.07873.pdf)[\[Code\]](https://github.com/RUCAIBox/CIKM2020-S3Rec)    
